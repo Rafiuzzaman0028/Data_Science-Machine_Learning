@@ -1,0 +1,18 @@
+Table name:  Google_salaries
+
+=======================================
+            Question: 
+=======================================
+Write a query to make a group by department and present the average salary for every group
+
+
+=======================================
+            Answer: 
+=======================================
+
+SQL Query Code: 
+
+SELECT department, AVG(salary) AS average_salary
+FROM Google_salaries
+GROUP BY department
+
