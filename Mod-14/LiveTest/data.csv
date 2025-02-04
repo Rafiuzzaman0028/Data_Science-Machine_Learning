@@ -1,0 +1,11 @@
+Weather,Humidity,Wind,Play
+Sunny,Normal,Week,No
+Sunny,Normal,Week,No
+Sunny,Normal,Strong,No
+Sunny,High,Week,No
+Sunny,High,Strong,No
+Rainy,High,Strong,Yes
+Rainy,High,Week,Yes
+Rainy,Low,Week,Yes
+Rainy,Low,Strong,Yes
+Rainy,Low,Week,Yes
